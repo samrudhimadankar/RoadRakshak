@@ -318,14 +318,3 @@ Built for **IIT Madras CoERS Road Safety Hackathon 2026**.
 
 This repository currently contains a frontend prototype. Backend services, real-time emergency integrations, authentication, database connectivity, SMS/WhatsApp dispatch, and production-grade AI guidance are part of the planned full implementation.
 
----
-
-## ⚠️ Disclaimer
-
-RoadSOS is a hackathon prototype and is not currently a certified emergency response system. In real emergencies, users should contact official emergency helplines such as **112**, **108**, **102**, **101**, or the nearest available local emergency service.
-
----
-
-## 📄 License
-
-This project is currently intended for hackathon and educational use. Add a license file before public production release.
